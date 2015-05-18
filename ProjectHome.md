@@ -1,0 +1,1 @@
+PortalLayout is yet another implementation of Vaadin layout. Shortly speaking, all the components you add there are wrapped in the portlets with some fancy functionality built-in (e.g drag and drop and collapsing).
